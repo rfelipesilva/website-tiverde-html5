@@ -1,0 +1,26 @@
+p.titulo {font-family:tahoma;font-size:20pt;color:black;text-align:center}
+p.conteudo {font-family:arial;font-size:15pt}
+p.subtitulo {font-family:tahoma;font-size:15pt;color:gray}
+p.imagen {align:center}
+p.rodape {font-family:tahoma;color:white;text-align:center}
+
+
+body.conteudo   {background-color:beige}
+body.rodape     {background-color:#006400}
+
+b.um  {color:blue}
+b.dois  {color:red}
+
+b.rodape {color:black}
+
+hr.titulo {width:450px}
+
+
+img.conteudo  {width:80px}
+img.botao {width:160px;height:37px}
+img.unip  {width:80px;height:17px}
+
+table.conteudo {}
+
+
+
