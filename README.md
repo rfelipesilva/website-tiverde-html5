@@ -1,5 +1,7 @@
-# website-tiverde-html5
+# ClickBio
 Website with sustainability theme for academic work.
-Pull/Download and start to explore through `index.html` file.
-![](img/tiverdegif.gif)
+For more details, find the full academic paper (:warning: in Portuguese - Brazil) in the `doc` folder.
+
+* Pull/Download and start to explore through `index.html` file.
+
 ![alt text](img/tiverdegif.gif)
